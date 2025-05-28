@@ -1,3 +1,5 @@
+# 개별연구**(다양한 관점에서의 보건영양데이터 분석 및 결과 도출)**
+
 # 1. 프로젝트 목표
 
 ✅ **공간 인프라(패스트푸드점, 병원, 생활체육시설,  대중교통 등)와 보건영양통계 간의 관계 분석**
@@ -1299,5 +1301,21 @@ print(vif_data)
 - `부산 해운대구`: pub_transport 계수 -1.0 → **대중교통 만족도가 비만율 감소에 크게 기여**
 
 → 지역마다 중요한 요인이 다르다는 사실을 수치로 증명할 수 있음
+
+---
+
+## 1) Github
+
+https://github.com/HyunBin-Jang/Statistical-Analysis-Health-Data
+
+## 2) Resources
+
+## 3) FeedBack
+
+[2025-04-11 개별연구 미팅](https://www.notion.so/2025-04-11-1d200341832380c28f86eb30b813ba8e?pvs=21)
+
+[2025-05-01 개별연구 미팅](https://www.notion.so/2025-05-01-1df0034183238045a274ebd97bacac8b?pvs=21)
+
+[2025-05-09 개별연구 미팅](https://www.notion.so/2025-05-09-1ee003418323808980dbdfae540a76c6?pvs=21)
 
 ---
